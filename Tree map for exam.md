@@ -27,8 +27,6 @@ we can't use frameworks but on the front end they **may be accepted** if asked
 
 # Project management
 https://crane.dei.unipd.it/my-courses
-
-
 ## Version control
 -  [[bit bucket]]
 -  [[git]]
