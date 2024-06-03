@@ -44,9 +44,45 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "c92b6ee84d480e99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "L05 - Docker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e013f1e71c106609",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "L06 - Java Servlets and Access to Database.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a358af8d0aba3122",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "L07 - jsp.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -112,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L04 - Introduction to Java Servlet.md",
+                "file": "L07 - jsp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L04 - Introduction to Java Servlet.md",
+                "file": "L07 - jsp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "L04 - Introduction to Java Servlet.md"
+                "file": "L07 - jsp.md"
               }
             }
           }
@@ -173,8 +209,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08c4acb7ab38e80f",
+  "active": "a358af8d0aba3122",
   "lastOpenFiles": [
+    "L06 - Java Servlets and Access to Database.md",
+    "L07 - jsp.md",
+    "GET and POST methods.md",
+    "L04 - Introduction to Java Servlet.md",
+    "Pasted image 20240603112647.png",
+    "L05 - Docker.md",
+    "stuffs/Pasted image 20240603111539.png",
     "AJAX.md",
     "Canvas.md",
     "Dao.md",
@@ -183,7 +226,6 @@
     "JavaScript.md",
     "JavaServer Pages (JSP).md",
     "jQuery Library.md",
-    "L04 - Introduction to Java Servlet.md",
     "postgresql.md",
     "README.md",
     "Report.md",
