@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "4c379e28770d5119",
+    "type": "split",
+    "children": [
+      {
+        "id": "9191b4a66571048e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fefe286fa48c051",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "L02 - Intro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2193d38845fc2bfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "L03 - Git and Maven.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08c4acb7ab38e80f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "L04 - Introduction to Java Servlet.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78de5f4f7c0c0120",
+    "type": "split",
+    "children": [
+      {
+        "id": "28ab9fb8624c3cff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7721eff0b72c67e8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cf6331508092f7e7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b73966eea230b58d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "baa172eb6962ec31",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7871717d6e9550d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8aa3bf0bcea868e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "L04 - Introduction to Java Servlet.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3825d27e0a4e2566",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "L04 - Introduction to Java Servlet.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f8123b15682f37f2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "02dc1d290fa067c6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "L04 - Introduction to Java Servlet.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "08c4acb7ab38e80f",
+  "lastOpenFiles": [
+    "AJAX.md",
+    "Canvas.md",
+    "Dao.md",
+    "Form validation.md",
+    "Java.md",
+    "JavaScript.md",
+    "JavaServer Pages (JSP).md",
+    "jQuery Library.md",
+    "L04 - Introduction to Java Servlet.md",
+    "postgresql.md",
+    "README.md",
+    "Report.md",
+    "servlet Java.md",
+    "Tree map for exam.md",
+    "Tomcat.md",
+    "SQL.md",
+    "L03 - Git and Maven.md",
+    "stuffs/03- Notes - Git and maven b28e8af786c94a47a85992ee57c07bfa.pdf",
+    "L02 - Intro.md",
+    "stuffs/02 - Notes - Intro 6ea16b9ce9874d0fa46670a44e87d048.pdf"
+  ]
+}
