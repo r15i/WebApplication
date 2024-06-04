@@ -56,7 +56,9 @@ https://crane.dei.unipd.it/my-courses
 - [[Architettura Model-View-Controller (MVC)]]
 - [[Web services REST e SOAP]]
 - [[Security]]
+- [[semantic Web]]
 
+- [[Overall Recap]]
 
 # Esempi di codice
 https://bitbucket.org/frrncl/webapp-unipd/src/master/
